@@ -1,2 +1,4 @@
 # primero
-#texto
+#Es el primer repositorio que subo.
+Todavía necesito aprender muuuuucho
+
