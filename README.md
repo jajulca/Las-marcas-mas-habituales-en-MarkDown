@@ -79,14 +79,3 @@ O incluir el nombre del lenguage de programación:
 **Esto está en negrita**
 
 
-
->Dónde fueres haz lo que vieres
-
-
-
-[Recursos para programadores](http://www.eldesvandejose.com "Recursos para programadores").
-
-
-
-![Una imagen cualquiera](http://dummyimage.com/150 "De 150 x 150 píxeles")
-
