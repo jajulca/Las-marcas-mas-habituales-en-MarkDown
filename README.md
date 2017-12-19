@@ -6,5 +6,5 @@ Destino
 ## test
 
 
-Inicio
-Prueba
+Inicio  Prueba
+
