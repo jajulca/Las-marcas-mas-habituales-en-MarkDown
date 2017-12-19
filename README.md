@@ -82,6 +82,6 @@ O incluir el nombre del lenguage de programación:
 Extraido de https://www.google.es/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwis6YKPm5fYAhUDwBQKHYYABGYQFggnMAA&url=https%3A%2F%2Feldesvandejose.com%2F2016%2F08%2F10%2Fgit-y-github-iv-los-archivos-readme-md%2F%3Fupm_export%3Dhtml&usg=AOvVaw2e_TfL8JCPRjOGohdZN6W1
 
 
-## Introducción al Markdown (http://programminghistorian.github.io/ph-submissions/es/traducciones/introduccion-a-markdown)
+## Introducción al Markdown 
 
 http://programminghistorian.github.io/ph-submissions/es/traducciones/introduccion-a-markdown
